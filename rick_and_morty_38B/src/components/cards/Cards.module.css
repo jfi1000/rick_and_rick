@@ -1,0 +1,4 @@
+.divBienvenido {
+    display: flex;
+    flex-wrap: wrap;
+}
